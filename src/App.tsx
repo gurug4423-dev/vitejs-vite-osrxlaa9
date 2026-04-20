@@ -1,4 +1,5 @@
-import { useState, useEffect, CSSProperties } from "react";
+import { useState, useEffect } from "react";
+import type { CSSProperties } from "react";
 
 // ── Types ────────────────────────────────────────────────────────────────────
 interface AppItem {
